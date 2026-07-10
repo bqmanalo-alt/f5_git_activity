@@ -1,0 +1,11 @@
+Version control is important in collaborative projects because it allows multiple people to work on the same codebase without overwriting each other's work. 
+It keeps a complete history of changes, so teams can see who made what change, when, and why. 
+If a mistake is introduced, version control makes it possible to roll back to a previous working version instead of losing progress. 
+It also supports parallel development through branching, letting team members experiment safely before merging into the main project. 
+Overall, version control improves accountability, collaboration, and reliability.
+
+
+
+
+
+
